@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Argie Marilao Pardillo</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=argieezu&label=Profile%20views&color=0e75b6&style=flat" alt="argieezu" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=argieezu" alt="argieezu" /></a> </p>
 
 - 📫 How to reach me **argiempardillo@gmail.com**
@@ -22,3 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=argieezu&show_icons=true&locale=en&layout=compact" alt="argieezu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=argieezu&show_icons=true&locale=en" alt="argieezu" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=argieezu&label=Profile%20views&color=0e75b6&style=flat" alt="argieezu" /> </p>
