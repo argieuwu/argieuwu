@@ -1,3 +1,3 @@
-<h3 align="center"> zupp bossing musta buhay buhay👋 </h3>
+<h3 align="center"> yo 👋 </h3>
 
 
